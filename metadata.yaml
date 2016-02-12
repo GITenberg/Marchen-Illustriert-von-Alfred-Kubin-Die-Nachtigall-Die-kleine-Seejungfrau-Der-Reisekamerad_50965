@@ -1,0 +1,30 @@
+_repo: Marchen-Illustriert-von-Alfred-Kubin-Die-Nachtigall-Die-kleine-Seejungfrau-Der-Reisekamerad_50965
+contributor:
+  illustrator:
+    agent_name: Kubin, Alfred
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '39044'
+    url: http://www.gutenberg.org/2009/agents/39044
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2016-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50965'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Märchen (Illustriert von Alfred Kubin)
+
+  Die Nachtigall / Die kleine Seejungfrau / Der Reisekamerad'
+url: http://www.gutenberg.org/ebooks/50965
